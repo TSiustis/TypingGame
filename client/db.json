@@ -1,0 +1,325 @@
+{
+  "texts": [
+    {
+      "id": 1,
+      "content": "They don't know that we know they know we know.",
+      "source": "Friends"
+    },
+
+    {
+      "id": 2,
+      "content": " When you find that once again you long to take your heart back and be free, if you ever find a moment, spare a thought for me.",
+      "source": "The Phantom of the Opera"
+    },
+
+    {
+      "id": 3,
+      "content": "Fidget: \"Here, give me a pen. I'll draw it myself. Okay, there, done. See how I've captured every nuanced curve? See? You can use this to measure your doll. It's perfect.\" Mordecai: \"Ha! No, it really isn't! Actually, that's the worst drawing I've ever seen.\"",
+      "source": "Dust: An Elysian Tail,"
+    },
+
+    {
+      "id": 4,
+      "content": "It's you that perceives reality as bad and unpleasant. It's you who's mistaken reality for the truth. Your perspective on reality and the importance you place on reality, the slightest difference in these things will greatly change the world inside your mind.",
+      "source": "Neon Genesis Evangelion"
+    },
+
+    {
+      "id": 5,
+      "content": "Usually rockslides take place in a geologic setting where the rock strata are inclined, or where joints and fractures exist parallel to the slope. When such a rock unit is undercut at the base of the slope, it loses support, and the rock eventually gives way.",
+      "source": "Earth: An Introduction to Physical Geology"
+    },
+
+    {
+      "id": 6,
+      "content": "It wasn't always so clear, but the Rust programming language is fundamentally about empowerment: no matter what kind of code you are writing now, Rust empowers you to reach farther, to program with confidence in a wider variety of domains than you did before.",
+      "source": "The Rust Programming Language"
+    },
+
+    {
+      "id": 7,
+      "content": " Come, Friend, you too must die. Why moan about it so? Even Patroclus died, a far, far better man than you. And look, you see how handsome and powerful I am? The son of a great man, the mother who gave me life - a deathless goddess. But even for me, I tell you, death and the strong force of fate are waiting. There will come a dawn or sunset or high noon when a man will take my life in battle too - flinging a spear perhaps, or whipping a deadly arrow off his bow.",
+      "source": "The Iliad"
+    },
+
+    {
+      "id": 8,
+      "content": " When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil. But I have seen the beauty of good, and the ugliness of evil, and have recognized that the wrongdoer has a nature related to my own - not of the same blood and birth, but the same mind, and possessing a share of the divine. And so none of them can hurt me. No one can implicate me in ugliness. Nor can I feel angry at my relative, or hate him. We were born to work together like feet, hands and eyes, like the two rows of teeth, upper and lower. To obstruct each other is unnatural. To feel anger at someone, to turn your back on him: these are unnatural.",
+      "source": "Meditations"
+    },
+    
+    {
+      "id": 9,
+      "content": "You put a textbook in front of these kids, put a problem on the blackboard, teach them every problem in some statewide test, it won't matter. None of it. 'Cause they're not learning for our world; they're learning for theirs. They know exactly what it is they're training for and what it is everyone expects them to be. It's not about you or us or the test or the system. It's what they expect of themselves. Every single one of them know they're headed back to the corners. Their brothers and sisters, their parents. They came through these same classrooms. We pretended to teach them, they pretended to learn and where'd they end up? Same corners. They're not fools, these kids. They don't know our world but they know their own. They see right through us.",
+      "source": "The Wire"
+    },
+
+    {
+      "id": 10,
+      "content": "Last week, Bill's class took a field trip to the beach. His half brother Randall came along - a little boy in the special class with aluminum hook arms, whose mind was as misshapen as his legs. No one at school really knew him because he always rode on a separate bus and was taught to stand within the confines of a tetherball circle every recess. In the late afternoon, Randall was over with the adults when he spotted a gull overhead. His eyes burst with emotion and he suddenly took off stumbling after it. Tears streaming down his little face, he stretched his aluminum hooks as wide as he could towards the sun, howling, \"Boon, boon,\" and disappeared into the deep blue sea. The other kids were surprised he could even run that fast.",
+      "source": "It's Such a Beautiful Day"
+    },
+
+    {
+      "id": 12,
+      "content": " Back then when I got home from work, you were always there waiting for me. And that was all I needed. Just you. But on that day, when I came back home the only thing there was that pocket watch; that and a small piece of paper that just had one word written across it: farewell. For some reason, I didn't feel sad or broken up - it just didn't seem real. But slowly I realized that it was real; that you were gone. And little by little I felt something inside of me go numb. After six months I made a kind of bet with myself; a pledge, that I would leave this planet and start a new life if you didn't return by the time the watch stopped. I didn't come here to blame you, I... I just wanted to know why. Why you disappeared like that.",
+      "source": "Cowboy Bebop"
+    },
+
+    {
+      "id": 13,
+      "content": "So I tell them I'm a pro jock, and who do you think they give me? The Dalai Lama himself. Twelfth son of the Lama. The flowing robes, the grace, bald... striking. So, I'm on the first tee with him. I give him the driver. He hauls off and whacks one - big hitter, the Lama - long, into a ten thousand foot crevasse, right at the base of this glacier. Do you know what the Lama says? Gunga galunga... gunga, gunga lagunga. So we finish the eighteen and he's gonna stiff me. And I say, \"Hey, Lama, hey, how about a little something, you know, for the effort, you know.\" And he says, \"Oh, uh, there won't be any money, but when you die, on your deathbed, you will receive total consciousness.\" So I got that goin' for me, which is nice.",
+      "source": "Caddyshack"
+    },
+
+    {
+      "id": 14,
+      "content": "It's what the philosopher Alan Watts used to refer to as \"the backwards law\" - the idea that the more you pursue feeling better all the time, the less satisfied you become, as pursuing something only reinforces the fact that you lack it in the first place. The more you desperately want to be rich, the more poor and unworthy you feel, regardless of how much money you actually make. The more you desperately want to be sexy and desired, the uglier you come to see yourself, regardless of your actual physical appearance. The more you desperately want to be happy and loved, the lonelier and more afraid you become, regardless of those who surround you. The more you want to be spiritually enlightened, the more self-centered and shallow you become in trying to get there.",
+      "source": "The Subtle Art of Not Giving a F*ck"
+    },
+
+    {
+      "id": 15,
+      "content": "Why would a Wookiee, an 8-foot-tall Wookiee, want to live on Endor, with a bunch of 2-foot-tall Ewoks? That does not make sense! But more important, you have to ask yourself: What does this have to do with this case? Nothing. Ladies and gentlemen, it has nothing to do with this case! It does not make sense! Look at me. I'm a lawyer defending a major record company, and I'm talkin' about Chewbacca! Does that make sense? Ladies and gentlemen, I am not making any sense! None of this makes sense! And so you have to remember, when you're in that jury room deliberatin' and conjugatin' the Emancipation Proclamation, does it make sense? No! Ladies and gentlemen of this supposed jury, it does not make sense! If Chewbacca lives on Endor, you must acquit! The defense rests.",
+      "source": "South Park"
+    },
+
+    {
+      "id": 16,
+      "content": "There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question.",
+      "source": "The Demon-Haunted World: Science as a Candle in the Dark"
+    },
+    {
+      "id": 17,
+      "content": " She asks me to kill the spider. Instead, I get the most peaceful weapons I can find. I take a cup and a napkin. I catch the spider, put it outside and allow it to walk away. If I am ever caught in the wrong place at the wrong time, just being alive and not bothering anyone, I hope I am greeted with the same kind of mercy.",
+      "source": "Helium"
+    },
+
+    {
+      "id": 18,
+      "content": "Follow her down to a bridge by a fountain, where rocking horse people eat marshmallow pies. Everyone smiles as you drift past the flowers that grow so incredibly high. Newspaper taxis appear on the shore waiting to take you away. Climb in the back with your head in the clouds and you're gone. Lucy in the sky with diamonds.",
+      "source": "Lucy In The Sky With Diamonds"
+    },
+
+    {
+      "id": 19,
+      "content": "Technically, chemistry is the study of matter. But I prefer to see it as the study of change. Now, just, just think about this. Electrons change their energy levels. Molecules change their bonds. Elements combine and change into compounds. Well that's all of life, right? It's the constant, it's the cycle. It's solution, dissolution, over and over and over. It is growth then decay then transformation. It is fascinating, really.",
+      "source": "Breaking Bad"
+    },
+
+    {
+      "id": 20,
+      "content": "Sometimes, when you're writing a poem - or a story - your brain gets fixated on a specific point. If you try so hard to make it perfect, then you'll never make any progress. Just force yourself to get something down on the paper, and tidy it up later! Another way to think about it is this: if you keep your pen in the same spot for too long, you'll just get a big dark puddle of ink. So just move your hand, and go with the flow!",
+      "source": "Doki Doki Literature Club"
+    },
+
+    {
+      "id": 21,
+      "content": "Countless blues are sung about individual trains which appear to have their own peculiar personalities, especially the Cannonball, the Redball and other famous express engines. Impressive in their speed and immense proportions, chilling the spine with their shrieking whistles in the night, thrilling the blood with the roar of their engines as they pass, even the more obscure trains have their importance in the remoter districts.",
+      "source": "The Meaning of the Blues"
+    },
+
+    {
+      "id": 22,
+      "content": "Rimmer: Kryten, you're forgetting about Space Corps Directive 1742! Kryten: 1742? \"No member of the Corps should ever report for duty in a ginger toupee.\" Well, thank you for reminding me about that regulation but I can't see how it is pertinent to our present situation. Rimmer: 1743, then! Kryten: Oh, I see. \"No registered vessel should attempt to transverse an asteroid belt without deflectors.\" Rimmer: Yes! God, he's pedantic!",
+      "source": "Red Dwarf: Psirens"
+    },
+
+    {
+      "id": 23,
+      "content": "Voila! In view, a humble vaudevillian veteran cast vicariously as both victim and villain by the vicissitudes of fate. This visage, no mere veneer of vanity, is a vestige of the vox populi, now vacant, vanished. However, this valourous visitation of a bygone vexation stands vivified and has vowed to vanquish these venal and virulent vermin vanguarding vice and vouchsafing the violently vicious and voracious violation of volition!",
+      "source": " V for Vendetta"
+    },
+
+    {
+      "id": 24,
+      "content": "My severe injuries had healed and the sweet taste of blood coated my mouth. I kept walking, my goal vague, trying to dispel the building unease in my chest. Upon entering an open area was the scent of rotting flowers and in the middle of the flowerbed, he stood. Without anyone saying a thing, without his name given, like an unsolved puzzle falling into place by itself, just by seeing that figure, I understood exactly who I faced.",
+      "source": "Tokyo Ghoul"
+    },
+
+    {
+      "id": 25,
+      "content": "I'll tell you why. I think you're a lonely person. I drive by this place a lot and I see you here. I see a lot of people around you. And I see all these phones and all this stuff on your desk. It means nothing. Then when I came inside and I met you, I saw in your eyes and I saw the way you carried yourself that you're not a happy person. And I think you need something. And if you want to call it a friend, you can call it a friend.",
+      "source": "Taxi Driver"
+    },
+
+    {
+      "id": 26,
+      "content": "Be patient toward all that is unsolved in your heart and try to love the questions themselves, like locked rooms and like books that are now written in a very foreign tongue. Do not now seek the answers, which cannot be given you because you would not be able to live them. And the point is, to live everything. Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer.",
+      "source": "Letters to a Young Poet"
+    },
+
+    {
+      "id": 27,
+      "content": " We know that there is not one person who, after hearing these words, would deny their truth and say that he wanted something else, but he would believe that he had heard exactly what he had desired for a long time - namely, to be melted in unison with his beloved, and the two of them become one. The reason is that our ancient nature was thus and we were whole. And so love is merely the name for the desire and pursuit of the whole.",
+      "source": "Symposium"
+    },
+
+    {
+      "id": 28,
+      "content": "Every day I come by your house and I pick you up. And we go out. We have a few drinks, and a few laughs, and it's great. But you know what the best part of my day is? For about ten seconds, from when I pull up to the curb and when I get to your door, 'cause I think, maybe I'll get up there and I'll knock on the door and you won't be there. No goodbye. No see you later. No nothing. You just left. I don't know much, but I know that.",
+      "source": "Good Will Hunting"
+    },
+
+    {
+      "id": 29,
+      "content": "Both ways set out from the senses and particulars, and rest in the highest generalities; but the difference between them is infinite. For the one just glances at experiment and particulars in passing, the other dwells duly and orderly among them. The one, again, begins at once by establishing certain abstract and useless generalities, the other rises by gradual steps to that which is prior and better known in the order of nature.",
+      "source": "Novum Organum"
+    },
+
+    {
+      "id": 30,
+      "content": "The year 1997 has arrived. A herd of ugly reds are rushing from the mainland. Crime rate skyrockeded! Hongkong is ruined! Therefore, the Hongkong government called Bruce Lee's relative \"Chin\" for the massacre of the reds. Chin is a killer machine. Wipe out all 1.2 billion of the red communists! However, in mainland China there was a secret project in progress! A project to transform the deceased Tong Shau Ping into an ultimate weapon!",
+      "source": "Hong Kong 1997"
+    },
+
+    {
+      "id": 31,
+      "content": "Cold enough for ya? It's never cold enough for Crazy Neil. Ice in my veins! Back home I used to spend summers at McMurdo base in Antarctica. Long family tradition. My great-great-great-great grandfather took part in Operation Deep Freeze. And my great-great-great-great grandmother was a penguin! Now that's a joke, son. You understand? I wanna be clear: There ain't nothing funny about sexin' a penguin. Not even if they're beggin' for it.",
+      "source": "Lost Planet 3"
+    },
+
+    {
+      "id": 32,
+      "content": "Those who do not exist cannot suffer and are of no account to any viable ethics. If the true path to goodness is the elimination of suffering, then only those who must exist can be allowed to exist. It is the nature of life to favor existence over nonexistence, and to prefer the fertile soil to the poisoned wind. Because those who open their mouths to that wind pass from the world and leave no descendant, whether of flesh or of thought.",
+      "source": " Destiny 2 Shadowkeep - Book of Unveiling - Pleased to Meet You"
+    },
+
+    {
+      "id": 32,
+      "content": "By humbly and frankly acknowledging yourself to be in the wrong, there is no knowing, my son, what good you may do. I knew once a gentleman and very worthy practitioner in Vanity Fair, who used to do little wrongs to his neighbours on purpose, and in order to apologise for them in an open and manly way afterwards - and what ensued? My friend Crocky Doyle was liked everywhere, and deemed to be rather impetuous - but the honestest fellow.",
+      "source": "Vanity Fair"
+    },
+
+    {
+      "id": 33,
+      "content": "It was a strange feeling, holding the rifle. It somehow removed him from everything around him. Without the rifle he had to fit in, to be part of it all, to understand it and use it - the woods, all of it. With the rifle, suddenly, he didn't have to know, did not have to be afraid or understand. He didn't have to get close to a foolbird to kill it - didn't have to know how it would stand if he didn't look at it and moved off to the side.",
+      "source": "Hatchet"
+    },
+
+    {
+      "id": 34,
+      "content": "If youth is the season of hope, it is often so only in the sense that our elders are hopeful about us; for no age is so apt as youth to think its emotions, partings, and resolves are the last of their kind. Each crisis seems final, simply because it is new. We are told that the oldest inhabitants in Peru do not cease to be agitated by the earthquakes, but they probably see beyond each shock, and reflect that there are plenty more to come.",
+      "source": "Middlemarch"
+    },
+
+    {
+      "id": 35,
+      "content": "Anyway, it's best not to think about them, as if you do it makes the discussions with the other lawyers, all their advice and all that they do manage to achieve, seem so unpleasant and useless, I had that experience myself, just wanted to throw everything away and lay at home in bed and hear nothing more about it. But that, of course, would be the stupidest thing you could do, and you wouldn't be left in peace in bed for very long either.",
+      "source": "The Trial"
+    },
+
+    {
+      "id": 36,
+      "content": "The recipe for turning fruit into wine goes something like this: 1. Pick a large quantity of ripe grapes from grapevines (you could substitute raspberries or any other fruit, but 99.9 percent of all the wine in the world is made from grapes, because they make the best wines). 2. Put the grapes into a clean container that doesn't leak. 3. Crush the grapes somehow to release their juice. (Once upon a time, feet performed this step.) 4. Wait.",
+      "source": "Wine for Dummies"
+    },
+    {
+      "id": 37,
+      "content": "Stir-frying is a cooking technique in which small, uniform-size pieces of meat and/or vegetables are cooked quickly over high heat while being constantly stirred. Saute literally means \"to jump\" and is defined as cooking food in a small amount of fat while stirring and tossing it. The biggest difference between the two techniques is that food is usually cooked at a slightly lower heat when sauteing, so it doesn't require constant stirring.",
+      "source": "Stir-Fry, Etc.: Meals for Life"
+    },
+
+    {
+      "id": 38,
+      "content": "According to Heraclitus, we cannot step into the same river twice. To put it another way, an opportunity lost stays lost forever. While I agree with the spirit of that saying, I have found that there are times when exceptions are granted. When Elizabeth returned from England and her marriage had ended, the waters we found ourselves in were as swimmingly lovely as when we first met. But if time made concessions for love, it made none for death.",
+      "source": "The Emperor's Club"
+    },
+
+    {
+      "id": 39,
+      "content": "The only thing we try to do here is show you how to make effects, how to create certain illusions, and then you do with it whatever you want. We each see nature through different eyes, so you paint the way you see it, and then it's right. And the only rule that I respect in art is: if it makes you happy, then it's good. You do what makes you happy. You paint scenes the way you see 'em, and that's when you really experience the joy of painting.",
+      "source": "The Joy of Painting"
+    },
+
+    {
+      "id": 40,
+      "content": "Lush green hills and plains, forests that are filled with rain, canyons that are rusty red, grasslands are as soft as beds. Flashing lightning in the sky, birds do fly so high, lovely breeze makes its way through the trees. A gleaming ocean in daylight, moths flutter throughout the night, colorful birds fly in the sky, clouds in the sunset soar so high. An illuminating sunrise lights the sky to show that Earth will hold us each day that goes by.",
+      "source": "Nature is Wonderful and Spectacular"
+    },
+
+    {
+      "id": 41,
+      "content": "Teddy told me that in Greek, \"nostalgia\" literally means the pain from an old wound. It's a twinge in your heart, far more powerful than memory alone. This device isn't a space ship, it's a time machine. It goes backwards, forwards. It takes us to a place where we ache to go again. It's not called a wheel, it's called a carousel. It lets us travel the way a child travels, round and round, and back home again, to a place where we know we are loved.",
+      "source": "Mad Men"
+    },
+
+    {
+      "id": 42,
+      "content": "We travelled by the Underground as far as Aldersgate; and a short walk took us to Saxe-Coburg Square, the scene of the singular story which we had listened to in the morning. It was a poky, little, shabby-genteel place, where four lines of dingy two-storied brick houses looked out into a small railed-in enclosure, where a lawn of weedy grass and a few clumps of faded laurel bushes made a hard fight against a smoke-laden and uncongenial atmosphere.",
+      "source": "The Adventures of Sherlock Holmes"
+    },
+
+    {
+      "id": 43,
+      "content": "You've beaten my giant, which means you're exceptionally strong so you could've put the poison in your own goblet trusting on your strength to save you so I can clearly not choose the wine in front of you. But you've also bested my Spaniard, which means you must have studied and in studying you must have learned that man is mortal so you would have put the poison as far from yourself as possible so I can clearly not choose the wine in front of me.",
+      "source": "The Princess Bride"
+    },
+
+    {
+      "id": 44,
+      "content": "A fellow will remember a lot of things you wouldn't think he'd remember. You take me. One day, back in 1896, I was crossing over to Jersey on the ferry, and as we pulled out, there was another ferry pulling in, and on it there was a girl waiting to get off. A white dress she had on. She was carrying a white parasol. I only saw her for one second. She didn't see me at all, but I'll bet a month hasn't gone by since that I haven't thought of that girl.",
+      "source": "Citizen Kane"
+    },
+
+    {
+      "id": 45,
+      "content": "Ticking away the moments that make up a dull day, you fritter and waste the hours in an off-hand way. Kicking around on a piece of ground in your home town, waiting for someone or something to show you the way. Tired of lying in the sunshine, staying home to watch the rain. You are young and life is long, and there is time to kill today. And then, one day you find, ten years have got behind you, no one told you when to run, you missed the starting gun.",
+      "source": "Time"
+    },
+
+    {
+      "id": 46,
+      "content": "One broken window, left unrepaired for any substantial length of time, instills in the inhabitants of the building a sense of abandonment - a sense that the powers that be don't care about the building. So another window gets broken. People start littering. Graffiti appears. Serious structural damage begins. In a relatively short space of time, the building becomes damaged beyond the owner's desire to fix it, and the sense of abandonment becomes reality.",
+      "source": "The Pragmatic Programmer"
+    },
+
+    {
+      "id": 47,
+      "content": "I will build a car for the great multitude. It will be large enough for the family, but small enough for the individual to run and care for. It will be constructed of the best materials, by the best men to be hired, after the simplest designs that modern engineering can devise. But it will be so low in price that no man making a good salary will be unable to own one - and enjoy with his family the blessing of hours of pleasure in God's great open spaces.",
+      "source": "My Life and Work"
+    },
+
+    {
+      "id": 48,
+      "content": "It makes a real difference in people's lives if they can drive to work on noncongested roads. It matters that people can travel safely and efficiently on trains and subways. The quality of life for millions of Americans will be improved if they are living in safe and affordable homes rather than overpriced and dilapidated apartments. We have the right to know that the water we are drinking is safe, and that our children are attending high-quality schools.",
+      "source": "Our Revolution: A Future to Believe In"
+    },
+
+    {
+      "id": 49,
+      "content": " The fairy Navi awakens Link from a nightmare in which he witnesses a man in black armor pursuing a young girl on horseback. Navi brings Link to the Great Deku Tree, who is cursed and near death. The Deku Tree tells Link a \"wicked man of the desert\" cursed him and seeks to conquer the world, and that Link must stop him. Before dying, the Great Deku Tree gives Link the Spiritual Stone of the Forest and sends him to Hyrule Castle to speak with Hyrule's princess.",
+      "source": "The Legend Of Zelda Ocarina Of Time"
+    },
+
+    {
+      "id": 50,
+      "content": "Boars are only worth two experience points apiece. Do you know how many we would have to kill to get up thirty levels? - Yes. Sixty five million, three hundred and forty thousand, two hundred and eighty five. Which should take us seven weeks, five days, thirteen hours, and twenty minutes, giving ourselves three hours a night to sleep. What do you say, guys? You can just hang outside in the sun all day tossing a ball around... or you can sit at your computer and do something that matters.",
+      "source": "South Park"
+    },
+
+    {
+      "id": 51,
+      "content": "Miscommunication sometimes leads to arguments, and arguments sometimes lead to fights. Anger is usually present in arguments and fights. Anger is an emotion, usually classified as a negative emotion. Negative emotions can cause severe problems in our environment and to the health of our body. Happiness, usually classified as a positive emotion, can bring good health to our body, and spread positive vibrations into our environment. Sometimes when we are ill, we are not on our best behavior.",
+      "source": "Twin Peaks"
+    },
+
+    {
+      "id": 52,
+      "content": "Miscommunication sometimes leads to arguments, and arguments sometimes lead to fights. Anger is usually present in arguments and fights. Anger is an emotion, usually classified as a negative emotion. Negative emotions can cause severe problems in our environment and to the health of our body. Happiness, usually classified as a positive emotion, can bring good health to our body, and spread positive vibrations into our environment. Sometimes when we are ill, we are not on our best behavior.",
+      "source": "Twin Peaks"
+    },
+
+    {
+      "id": 53,
+      "content": "A swimming pool not unlike any other pool, a structure built of tile and cement and money, a backyard toy for the affluent, wet entertainment for the well-to-do. But to Jeb and Sport Sharewood, this pool holds mysteries not dreamed of by the building contractor, not guaranteed in any sales brochure. For this pool has a secret exit that leads to a never-neverland, a place designed for junior citizens who need a long voyage away from reality, into the bottomless regions of the Twilight Zone.",
+      "source": "The Twilight Zone"
+    },
+
+    {
+      "id": 54,
+      "content": "In eternity, where there is no time, nothing can grow. Nothing can become. Nothing changes. So Death created time to grow the things that it would kill, and you are reborn, but into the same life that you've always been born into. I mean, how many times have we had this conversation, detectives? Well, who knows? When you can't remember your lives, you can't change your lives, and that is the terrible and the secret fate of all life. You're trapped by that nightmare you keep waking up into.",
+      "source": "True Detective"
+    } 
+  ]
+}

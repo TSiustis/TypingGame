@@ -1,0 +1,55 @@
+.previous {
+    color:#888;
+}
+
+.current-ok {
+    color: #4a3;
+    background: transparent;
+    text-decoration: underline;
+}
+.current-not-ok{
+    color:#f00;
+    background: #fcc;
+    text-decoration:underline;
+}
+
+.next {
+    color:#333;
+}
+
+.input-area {
+    margin-top: 1em;
+
+}
+.input-area label {
+    color:#888;
+    font-size:18px;
+}
+
+.source {
+    margin: 1em 0 3em;
+    font-size: 0.7em;
+    text-align:left;
+    color:gray;
+
+}
+.source a, .attr a:visited{
+    color:gray;
+    text-decoration: none;
+}
+.input-ok {
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 1.5em;
+    background: white;
+    color:#333;
+}
+
+.input-not-ok {
+    width: 100%;
+    box-sizing: border-box;
+    font: inherit;
+    font-size: 1.5em;
+    background: #faa;
+    color:#f00;
+}
