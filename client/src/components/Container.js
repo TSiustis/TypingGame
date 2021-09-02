@@ -23,7 +23,7 @@ function Game(){
         window.location.reload(); 
      }
     useEffect(()=>{
-         axios.get(`http://localhost:3001/texts/${(parseInt(54 * Math.random(), 10))}`).then(res =>{
+         axios.get(`http://localhost:3001/text/${(parseInt(54 * Math.random(), 10))}`).then(res =>{
             setText(res.data);
          });
     },[]);
@@ -47,7 +47,7 @@ function Game(){
                 ) : (
                 <>
                     <h1>Your WPM is: <span style = {{fontWeight:'bold'}}>{wpm.toFixed(0)}</span></h1>
-                    <span><button className = 'prompt-button'><Link to = "/home">Go Home</Link></button></span>
+                    <span><button className = 'prompt-button'><Link to = "/">Go Home</Link></button></span>
                 <span><button className = 'prompt-button' onClick = {refreshPage}>Try again</button></span>
                 </>
                 )
