@@ -36,9 +36,9 @@ function Screen({onProgress,onType, source, text}){
                 
                 {
                 ok === true ? (<div> 
-                <span className = 'previous' style = {{border:'1px solid red'}}>{previous}</span>
-                <span className = 'current-ok'style = {{border:'1px solid red'}}>{current}</span>
-                <span className = 'next' style = {{border:'1px solid red'}}> {next}</span>
+                <span className = 'previous' >{previous}</span>
+                <span className = 'current-ok'>{current}</span>
+                <span className = 'next' > {next}</span>
               </div>)
               :
               (<div> 
