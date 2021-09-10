@@ -10,6 +10,8 @@ For front-end it uses ReactJS and the backend is written in express.js with a mo
 
 ### Running on your machine
 To run the project on your machine:
+
+
 1.cd client -> npm install -> npm start
 2.cd server -> npm install -> nodemon server
 
