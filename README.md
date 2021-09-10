@@ -13,6 +13,7 @@ To run the project on your machine:
 
 
 1.cd client -> npm install -> npm start
+
 2.cd server -> npm install -> nodemon server
 
 
